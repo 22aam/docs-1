@@ -48,22 +48,6 @@ Some elements cannot have content; therefore, they do not require a closing tag.
 
 Adding a closing slash (`/`) at the end of the void element's opening tag is allowed, which creates a self-closing element. Turning void elements into self-closing is up to personal preference, but it improves compatibility with XHTML. The following elements are void elements:
 
-- `<area>`
-- `<base>`
-- [`<br>`](https://www.codecademy.com/resources/docs/html/elements/br)
-- `<col>`
-- [`<embed>`](https://www.codecademy.com/resources/docs/html/elements/embed)
-- [`<hr>`](https://www.codecademy.com/resources/docs/html/elements/hr)
-- [`<img>`](https://www.codecademy.com/resources/docs/html/elements/img)
-- [`<input>`](https://www.codecademy.com/resources/docs/html/elements/input)
-- [`<link>`](https://www.codecademy.com/resources/docs/html/elements/link)
-- [`<meta>`](https://www.codecademy.com/resources/docs/html/elements/meta)
-- [`<source>`](https://www.codecademy.com/resources/docs/html/elements/source)
-- `<track>`
-- `<wbr>`
-
-## Nested Elements
-
 HTML elements can be nested, meaning that elements can contain other elements inside or nested. All HTML documents consist of nested HTML elements.
 
 The following example contains four HTML elements: `<html>`, `<body>`, `<h1>`, and `<p>`:
